@@ -1,3 +1,8 @@
+# PubMed Metadata
+This was a project I worked on during an internship at Frontiers Media in 2019.
+Beware, it predates my awareness of python conventions and libraries such as pandas.
+Original README below:
+
 ~~~~~~~~ extractPubMed Documentation ~~~~~~~~
 
 Downloading PubMed XML files by query:
